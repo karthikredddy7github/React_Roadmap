@@ -1,0 +1,593 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="4940" viewBox="0 0 900 4940">
+<rect width="900" height="4940" fill="#F8F9FA"/>
+<!-- Spine -->
+<line x1="450" y1="80" x2="450" y2="4880" stroke="#AAAAAA" stroke-width="2" stroke-dasharray="4,4"/>
+<text x="450" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#2D3A4A">React Developer in 2026</text>
+<text x="450" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Beginner Edition — Follow the path from top to bottom</text>
+<rect x="720" y="20" width="165" height="110" rx="8" fill="white" stroke="#ddd" stroke-width="1.5"/>
+<text x="802" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">Legends</text>
+<rect x="730" y="50" width="145" height="22" rx="5" fill="#F9C74F" stroke="#D4A017" stroke-width="1.5"/>
+<text x="802" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2D3A4A">Personal Must Know</text>
+<rect x="730" y="78" width="145" height="22" rx="5" fill="#F4A261" stroke="#C4742A" stroke-width="1.5"/>
+<text x="802" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2D3A4A">Good to Know</text>
+<rect x="730" y="106" width="145" height="22" rx="5" fill="#CED4DA" stroke="#868E96" stroke-width="1.5"/>
+<text x="802" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2D3A4A">Possibilities</text>
+<rect x="320" y="90" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="114.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Learn the Basics</text>
+<circle cx="450" cy="141" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="30" y="154" width="155" height="86" rx="6" fill="#EBF4FB" stroke="#7DBDE8" stroke-width="1.2"/>
+<text x="179" y="172" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Learn basic HTML structure</text>
+<text x="179" y="186" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Semantic tags (header,</text>
+<text x="179" y="200" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">  main, footer, section)</text>
+<text x="179" y="214" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Forms &amp; input elements</text>
+<text x="179" y="228" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Accessibility basics</text>
+<rect x="385" y="158" width="130" height="34" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="450.0" y="180.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2D3A4A">HTML</text>
+<line x1="450" y1="192" x2="450" y2="202" stroke="#AAAAAA" stroke-width="2" />
+<rect x="510" y="154" width="150" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="585.0" y="171.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Semantic HTML5</text>
+<line x1="515" y1="175" x2="510" y2="167" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="186" width="150" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="585.0" y="203.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Forms &amp; Inputs</text>
+<line x1="515" y1="175" x2="510" y2="199" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="218" width="150" height="26" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="585.0" y="235.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Accessibility (a11y)</text>
+<line x1="515" y1="175" x2="510" y2="231" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="250" width="150" height="26" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="585.0" y="267.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Meta &amp; SEO Tags</text>
+<line x1="515" y1="175" x2="510" y2="263" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="282" x2="450" y2="300" stroke="#AAAAAA" stroke-width="2" />
+<circle cx="450" cy="301" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="30" y="312" width="155" height="86" rx="6" fill="#EBF4FB" stroke="#7DBDE8" stroke-width="1.2"/>
+<text x="179" y="330" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Box Model first!</text>
+<text x="179" y="344" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Flexbox = critical</text>
+<text x="179" y="358" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Media queries for</text>
+<text x="179" y="372" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">  responsive layouts</text>
+<text x="179" y="386" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">CSS Variables</text>
+<rect x="385" y="316" width="130" height="34" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="450.0" y="338.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2D3A4A">CSS</text>
+<rect x="260" y="312" width="130" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="325.0" y="329.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Box Model</text>
+<line x1="390" y1="325" x2="385" y2="333" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="260" y="344" width="130" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="325.0" y="361.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Flexbox</text>
+<line x1="390" y1="357" x2="385" y2="333" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="260" y="376" width="130" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="325.0" y="393.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">CSS Grid</text>
+<line x1="390" y1="389" x2="385" y2="333" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="260" y="408" width="130" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="325.0" y="425.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Responsive Design</text>
+<line x1="390" y1="421" x2="385" y2="333" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="312" width="160" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="590.0" y="329.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">CSS Variables</text>
+<line x1="515" y1="333" x2="510" y2="325" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="344" width="160" height="26" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="590.0" y="361.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Transitions &amp; Animations</text>
+<line x1="515" y1="333" x2="510" y2="357" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="376" width="160" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="590.0" y="393.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Tailwind CSS</text>
+<line x1="515" y1="333" x2="510" y2="389" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="408" width="160" height="26" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="590.0" y="425.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Sass / SCSS</text>
+<line x1="515" y1="333" x2="510" y2="421" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="440" x2="450" y2="458" stroke="#AAAAAA" stroke-width="2" />
+<circle cx="450" cy="459" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="30" y="470" width="155" height="86" rx="6" fill="#EBF4FB" stroke="#7DBDE8" stroke-width="1.2"/>
+<text x="179" y="488" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Variables, loops,</text>
+<text x="179" y="502" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">functions, objects</text>
+<text x="179" y="516" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">DOM manipulation</text>
+<text x="179" y="530" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">Event handling</text>
+<text x="179" y="544" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#2a5f8a">console.log debugging</text>
+<rect x="380" y="474" width="140" height="34" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="450.0" y="496.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2D3A4A">JS Basics</text>
+<rect x="510" y="470" width="160" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="590.0" y="487.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Variables &amp; Data Types</text>
+<line x1="520" y1="491" x2="510" y2="483" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="502" width="160" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="590.0" y="519.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Functions &amp; Scope</text>
+<line x1="520" y1="491" x2="510" y2="515" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="534" width="160" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="590.0" y="551.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">DOM Manipulation</text>
+<line x1="520" y1="491" x2="510" y2="547" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="566" width="160" height="26" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="590.0" y="583.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Events &amp; Listeners</text>
+<line x1="520" y1="491" x2="510" y2="579" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="510" y="598" width="160" height="26" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="590.0" y="615.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">JSON &amp; APIs (intro)</text>
+<line x1="520" y1="491" x2="510" y2="611" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="630" x2="450" y2="654" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="650" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="674.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">General Dev Skills</text>
+<circle cx="450" cy="701" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="766.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="716.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="734.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Git &amp; GitHub</text>
+<line x1="432" y1="730.0" x2="445" y2="766.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="752.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="770.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Terminal Basics</text>
+<line x1="432" y1="766.0" x2="445" y2="766.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="788.0" width="130" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="367.0" y="806.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">HTTP Basics</text>
+<line x1="432" y1="802.0" x2="445" y2="766.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="716.0" width="160" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="548.0" y="734.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">VS Code + Extensions</text>
+<line x1="455" y1="766.0" x2="468" y2="730.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="752.0" width="160" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="548.0" y="770.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Node.js &amp; npm</text>
+<line x1="455" y1="766.0" x2="468" y2="766.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="788.0" width="160" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="548.0" y="806.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Google &amp; Debug Skills</text>
+<line x1="455" y1="766.0" x2="468" y2="802.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="816" x2="450" y2="840" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="836" width="260" height="50" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="866.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">ES6+ JavaScript</text>
+<text x="450" y="876" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#aaa">Critical before React</text>
+<circle cx="450" cy="899" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="1000.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="292" y="914.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="932.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Destructuring</text>
+<line x1="432" y1="928.0" x2="445" y2="1000.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="950.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="968.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Spread Operator</text>
+<line x1="432" y1="964.0" x2="445" y2="1000.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="986.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="1004.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Template Literals</text>
+<line x1="432" y1="1000.0" x2="445" y2="1000.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="1022.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="1040.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">ES Modules</text>
+<line x1="432" y1="1036.0" x2="445" y2="1000.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="1058.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="362.0" y="1076.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Closures</text>
+<line x1="432" y1="1072.0" x2="445" y2="1000.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="914.0" width="180" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="558.0" y="932.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Array Methods (.map .filter)</text>
+<line x1="455" y1="1000.0" x2="468" y2="928.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="950.0" width="180" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="558.0" y="968.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Async / Await</text>
+<line x1="455" y1="1000.0" x2="468" y2="964.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="986.0" width="180" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="558.0" y="1004.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Promises</text>
+<line x1="455" y1="1000.0" x2="468" y2="1000.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1022.0" width="180" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="558.0" y="1040.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Optional Chaining (?.) </text>
+<line x1="455" y1="1000.0" x2="468" y2="1036.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1058.0" width="180" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="558.0" y="1076.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Nullish Coalescing (??)</text>
+<line x1="455" y1="1000.0" x2="468" y2="1072.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="1086" x2="450" y2="1110" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="1106" width="260" height="50" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="1136.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">⚛  React Core</text>
+<text x="450" y="1146" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#aaa">npm create vite@latest my-app -- --template react</text>
+<circle cx="450" cy="1172" r="8" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="355" y="1194" width="190" height="30" rx="15" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="1213.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Package Managers</text>
+<circle cx="450" cy="1262.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="1230.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="1248.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">npm (default)</text>
+<line x1="432" y1="1244.0" x2="445" y2="1262.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="1266.0" width="130" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="367.0" y="1284.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">pnpm (faster)</text>
+<line x1="432" y1="1280.0" x2="445" y2="1262.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1248.0" width="140" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="538.0" y="1266.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">yarn (alternative)</text>
+<line x1="455" y1="1262.0" x2="468" y2="1262.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="1304" x2="450" y2="1316" stroke="#AAAAAA" stroke-width="2" />
+<rect x="355" y="1316" width="190" height="30" rx="15" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="1335.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Build Tools</text>
+<circle cx="450" cy="1384.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="272" y="1370.0" width="160" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="352.0" y="1388.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Vite ⚡ (recommended)</text>
+<line x1="432" y1="1384.0" x2="445" y2="1384.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1352.0" width="155" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="545.5" y="1370.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Webpack (conceptual)</text>
+<line x1="455" y1="1384.0" x2="468" y2="1366.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1388.0" width="155" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="545.5" y="1406.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Turbopack (Next.js)</text>
+<line x1="455" y1="1384.0" x2="468" y2="1402.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="1426" x2="450" y2="1438" stroke="#AAAAAA" stroke-width="2" />
+<rect x="345" y="1438" width="210" height="30" rx="15" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="1457.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">JSX &amp; Components</text>
+<circle cx="450" cy="1542.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="1474.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="1492.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">JSX Syntax</text>
+<line x1="432" y1="1488.0" x2="445" y2="1542.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="1510.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="1528.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Props &amp; PropTypes</text>
+<line x1="432" y1="1524.0" x2="445" y2="1542.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="1546.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="1564.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">children Prop</text>
+<line x1="432" y1="1560.0" x2="445" y2="1542.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="1582.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="1600.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Component Composition</text>
+<line x1="432" y1="1596.0" x2="445" y2="1542.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1474.0" width="160" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="548.0" y="1492.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Functional Components</text>
+<line x1="455" y1="1542.0" x2="468" y2="1488.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1510.0" width="160" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="548.0" y="1528.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Conditional Rendering</text>
+<line x1="455" y1="1542.0" x2="468" y2="1524.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1546.0" width="160" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="548.0" y="1564.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Rendering Lists + Keys</text>
+<line x1="455" y1="1542.0" x2="468" y2="1560.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1582.0" width="160" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="548.0" y="1600.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Pure Components</text>
+<line x1="455" y1="1542.0" x2="468" y2="1596.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="1620" x2="450" y2="1632" stroke="#AAAAAA" stroke-width="2" />
+<rect x="355" y="1632" width="190" height="30" rx="15" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="1651.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Hooks</text>
+<circle cx="450" cy="1754.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="312" y="1668.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="1686.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useState</text>
+<line x1="432" y1="1682.0" x2="445" y2="1754.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="1704.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="1722.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useEffect</text>
+<line x1="432" y1="1718.0" x2="445" y2="1754.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="1740.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="1758.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useContext</text>
+<line x1="432" y1="1754.0" x2="445" y2="1754.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="1776.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="1794.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useRef</text>
+<line x1="432" y1="1790.0" x2="445" y2="1754.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="1812.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="372.0" y="1830.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useReducer</text>
+<line x1="432" y1="1826.0" x2="445" y2="1754.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1668.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="1686.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useCallback</text>
+<line x1="455" y1="1754.0" x2="468" y2="1682.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1704.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="1722.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useMemo</text>
+<line x1="455" y1="1754.0" x2="468" y2="1718.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1740.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="538.0" y="1758.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Custom Hooks</text>
+<line x1="455" y1="1754.0" x2="468" y2="1754.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1776.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="538.0" y="1794.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Rules of Hooks</text>
+<line x1="455" y1="1754.0" x2="468" y2="1790.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1812.0" width="140" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="538.0" y="1830.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useId / useTransition</text>
+<line x1="455" y1="1754.0" x2="468" y2="1826.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="1850" x2="450" y2="1862" stroke="#AAAAAA" stroke-width="2" />
+<rect x="355" y="1862" width="190" height="30" rx="15" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="1881.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Forms &amp; Events</text>
+<circle cx="450" cy="1948.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="292" y="1916.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="1934.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Controlled Inputs</text>
+<line x1="432" y1="1930.0" x2="445" y2="1948.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="1952.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="1970.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Event Handling</text>
+<line x1="432" y1="1966.0" x2="445" y2="1948.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1898.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="1916.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">React Hook Form</text>
+<line x1="455" y1="1948.0" x2="468" y2="1912.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1934.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="1952.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Zod Validation</text>
+<line x1="455" y1="1948.0" x2="468" y2="1948.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="1970.0" width="150" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="543.0" y="1988.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Formik (legacy)</text>
+<line x1="455" y1="1948.0" x2="468" y2="1984.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="1998" x2="450" y2="2022" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="2018" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="2042.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Styling</text>
+<circle cx="450" cy="2069" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="355" y="2084" width="190" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="2102.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">CSS Frameworks</text>
+<circle cx="450" cy="2168.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="2136.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="2154.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Tailwind CSS</text>
+<line x1="432" y1="2150.0" x2="445" y2="2168.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="2172.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="2190.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">CSS Modules</text>
+<line x1="432" y1="2186.0" x2="445" y2="2168.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2118.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="528.0" y="2136.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">shadcn/ui</text>
+<line x1="455" y1="2168.0" x2="468" y2="2132.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2154.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="528.0" y="2172.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Bootstrap</text>
+<line x1="455" y1="2168.0" x2="468" y2="2168.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2190.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="528.0" y="2208.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">MUI (Material UI)</text>
+<line x1="455" y1="2168.0" x2="468" y2="2204.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="2228" x2="450" y2="2238" stroke="#AAAAAA" stroke-width="2" />
+<rect x="355" y="2238" width="190" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="2256.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">CSS-in-JS</text>
+<circle cx="450" cy="2304.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="282" y="2290.0" width="150" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="357.0" y="2308.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Styled Components</text>
+<line x1="432" y1="2304.0" x2="445" y2="2304.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2272.0" width="120" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="528.0" y="2290.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Emotion</text>
+<line x1="455" y1="2304.0" x2="468" y2="2286.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2308.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="533.0" y="2326.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Vanilla Extract</text>
+<line x1="455" y1="2304.0" x2="468" y2="2322.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="2336" x2="450" y2="2360" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="2356" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="2380.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">State Management</text>
+<circle cx="450" cy="2407" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="350" y="2422" width="200" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="2440.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Component &amp; Context State</text>
+<circle cx="450" cy="2488.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="292" y="2456.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2474.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useState (local)</text>
+<line x1="432" y1="2470.0" x2="445" y2="2488.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="2492.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2510.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Context API</text>
+<line x1="432" y1="2506.0" x2="445" y2="2488.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2456.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="2474.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Zustand (global)</text>
+<line x1="455" y1="2488.0" x2="468" y2="2470.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2492.0" width="150" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="543.0" y="2510.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Jotai (atomic)</text>
+<line x1="455" y1="2488.0" x2="468" y2="2506.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="2530" x2="450" y2="2540" stroke="#AAAAAA" stroke-width="2" />
+<rect x="350" y="2540" width="200" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="2558.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Server State (Data Fetching)</text>
+<circle cx="450" cy="2606.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="292" y="2574.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2592.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">TanStack Query</text>
+<line x1="432" y1="2588.0" x2="445" y2="2606.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="2610.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="362.0" y="2628.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">SWR</text>
+<line x1="432" y1="2624.0" x2="445" y2="2606.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2574.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="528.0" y="2592.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Axios</text>
+<line x1="455" y1="2606.0" x2="468" y2="2588.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2610.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="528.0" y="2628.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">fetch() API</text>
+<line x1="455" y1="2606.0" x2="468" y2="2624.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="2648" x2="450" y2="2658" stroke="#AAAAAA" stroke-width="2" />
+<rect x="350" y="2658" width="200" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="2676.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Redux (Learn Later)</text>
+<circle cx="450" cy="2724.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="2710.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="367.0" y="2728.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Redux Toolkit</text>
+<line x1="432" y1="2724.0" x2="445" y2="2724.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2692.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="533.0" y="2710.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Redux Thunk</text>
+<line x1="455" y1="2724.0" x2="468" y2="2706.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2728.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="533.0" y="2746.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Redux Saga</text>
+<line x1="455" y1="2724.0" x2="468" y2="2742.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="2756" x2="450" y2="2780" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="2776" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="2800.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Routing</text>
+<circle cx="450" cy="2827" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="2910.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="292" y="2842.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2860.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">React Router v7</text>
+<line x1="432" y1="2856.0" x2="445" y2="2910.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="2878.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2896.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useNavigate</text>
+<line x1="432" y1="2892.0" x2="445" y2="2910.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="2914.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2932.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">useParams</text>
+<line x1="432" y1="2928.0" x2="445" y2="2910.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="2950.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="2968.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Nested Routes</text>
+<line x1="432" y1="2964.0" x2="445" y2="2910.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2842.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="538.0" y="2860.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Dynamic Routes</text>
+<line x1="455" y1="2910.0" x2="468" y2="2856.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2878.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="2896.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Protected Routes</text>
+<line x1="455" y1="2910.0" x2="468" y2="2892.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2914.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="2932.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Lazy Loading Routes</text>
+<line x1="455" y1="2910.0" x2="468" y2="2928.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="2950.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="2968.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Next.js App Router</text>
+<line x1="455" y1="2910.0" x2="468" y2="2964.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="2978" x2="450" y2="3002" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="2998" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="3022.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Type Checking</text>
+<circle cx="450" cy="3049" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="3114.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="292" y="3064.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="3082.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">TypeScript</text>
+<line x1="432" y1="3078.0" x2="445" y2="3114.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="3100.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="362.0" y="3118.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Types &amp; Interfaces</text>
+<line x1="432" y1="3114.0" x2="445" y2="3114.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="292" y="3136.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="362.0" y="3154.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Generics (basics)</text>
+<line x1="432" y1="3150.0" x2="445" y2="3114.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3064.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="3082.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Typing React Props</text>
+<line x1="455" y1="3114.0" x2="468" y2="3078.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3100.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="3118.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Typing Hooks</text>
+<line x1="455" y1="3114.0" x2="468" y2="3114.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3136.0" width="150" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="543.0" y="3154.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">PropTypes (legacy)</text>
+<line x1="455" y1="3114.0" x2="468" y2="3150.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="3164" x2="450" y2="3188" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="3184" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="3208.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">API Clients</text>
+<circle cx="450" cy="3235" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="375" y="3250" width="150" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="3268.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">REST APIs</text>
+<circle cx="450" cy="3316.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="3284.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="3302.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">fetch() API</text>
+<line x1="432" y1="3298.0" x2="445" y2="3316.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="3320.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="3338.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Axios</text>
+<line x1="432" y1="3334.0" x2="445" y2="3316.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3284.0" width="140" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="538.0" y="3302.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">TanStack Query</text>
+<line x1="455" y1="3316.0" x2="468" y2="3298.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3320.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="3338.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">SWR</text>
+<line x1="455" y1="3316.0" x2="468" y2="3334.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="3358" x2="450" y2="3368" stroke="#AAAAAA" stroke-width="2" />
+<rect x="375" y="3368" width="150" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="3386.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">GraphQL</text>
+<circle cx="450" cy="3434.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="3420.0" width="130" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="367.0" y="3438.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Apollo Client</text>
+<line x1="432" y1="3434.0" x2="445" y2="3434.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3402.0" width="110" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="523.0" y="3420.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">urql</text>
+<line x1="455" y1="3434.0" x2="468" y2="3416.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3438.0" width="110" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="523.0" y="3456.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Relay</text>
+<line x1="455" y1="3434.0" x2="468" y2="3452.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="3466" x2="450" y2="3490" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="3486" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="3510.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Utility Libraries</text>
+<circle cx="450" cy="3537" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="3620.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="312" y="3570.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="3588.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">date-fns</text>
+<line x1="432" y1="3584.0" x2="445" y2="3620.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="3606.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="372.0" y="3624.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Lodash</text>
+<line x1="432" y1="3620.0" x2="445" y2="3620.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="3642.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="3660.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Zod</text>
+<line x1="432" y1="3656.0" x2="445" y2="3620.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3552.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="528.0" y="3570.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">clsx / cn()</text>
+<line x1="455" y1="3620.0" x2="468" y2="3566.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3588.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="528.0" y="3606.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Lucide Icons</text>
+<line x1="455" y1="3620.0" x2="468" y2="3602.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3624.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="528.0" y="3642.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Recharts</text>
+<line x1="455" y1="3620.0" x2="468" y2="3638.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3660.0" width="120" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="528.0" y="3678.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">RxJS</text>
+<line x1="455" y1="3620.0" x2="468" y2="3674.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="3688" x2="450" y2="3712" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="3708" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="3732.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Testing</text>
+<circle cx="450" cy="3759" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="370" y="3774" width="160" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="3792.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">Unit Testing</text>
+<circle cx="450" cy="3840.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="312" y="3808.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="3826.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Vitest</text>
+<line x1="432" y1="3822.0" x2="445" y2="3840.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="3844.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="372.0" y="3862.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Jest</text>
+<line x1="432" y1="3858.0" x2="445" y2="3840.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3808.0" width="165" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="550.5" y="3826.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">React Testing Library</text>
+<line x1="455" y1="3840.0" x2="468" y2="3822.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3844.0" width="165" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="550.5" y="3862.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Testing Hooks</text>
+<line x1="455" y1="3840.0" x2="468" y2="3858.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="3882" x2="450" y2="3892" stroke="#AAAAAA" stroke-width="2" />
+<rect x="370" y="3892" width="160" height="28" rx="12" fill="#E8F4FD" stroke="#7DBDE8" stroke-width="1.8"/>
+<text x="450.0" y="3910.56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D3A4A">End-to-End Testing</text>
+<circle cx="450" cy="3958.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="312" y="3926.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="3944.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Playwright</text>
+<line x1="432" y1="3940.0" x2="445" y2="3958.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="3962.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="372.0" y="3980.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Cypress</text>
+<line x1="432" y1="3976.0" x2="445" y2="3958.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="3944.0" width="120" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="528.0" y="3962.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Puppeteer</text>
+<line x1="455" y1="3958.0" x2="468" y2="3958.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="3990" x2="450" y2="4014" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="4010" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="4034.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Server-Side Rendering</text>
+<circle cx="450" cy="4064" r="8" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="4150.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="4082.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="4100.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Next.js 15</text>
+<line x1="432" y1="4096.0" x2="445" y2="4150.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="4118.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="4136.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">App Router</text>
+<line x1="432" y1="4132.0" x2="445" y2="4150.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="4154.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="4172.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Server Components</text>
+<line x1="432" y1="4168.0" x2="445" y2="4150.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="4190.0" width="130" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="367.0" y="4208.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Client Components</text>
+<line x1="432" y1="4204.0" x2="445" y2="4150.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4082.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="4100.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">SSR &amp; SSG &amp; ISR</text>
+<line x1="455" y1="4150.0" x2="468" y2="4096.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4118.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="4136.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">File-Based Routing</text>
+<line x1="455" y1="4150.0" x2="468" y2="4132.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4154.0" width="150" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="543.0" y="4172.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">API Routes</text>
+<line x1="455" y1="4150.0" x2="468" y2="4168.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4190.0" width="150" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="543.0" y="4208.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Next.js Image &amp; Font</text>
+<line x1="455" y1="4150.0" x2="468" y2="4204.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="4218" x2="450" y2="4242" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="4238" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="4262.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Static Site Generator</text>
+<circle cx="450" cy="4289" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="4336.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="277" y="4304.0" width="155" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="354.5" y="4322.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Next.js (SSG mode)</text>
+<line x1="432" y1="4318.0" x2="445" y2="4336.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="277" y="4340.0" width="155" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="354.5" y="4358.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Astro</text>
+<line x1="432" y1="4354.0" x2="445" y2="4336.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4304.0" width="140" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="538.0" y="4322.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Gatsby (legacy)</text>
+<line x1="455" y1="4336.0" x2="468" y2="4318.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4340.0" width="140" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="538.0" y="4358.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Remix</text>
+<line x1="455" y1="4336.0" x2="468" y2="4354.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="4368" x2="450" y2="4392" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="4388" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="4412.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Build &amp; Deploy</text>
+<circle cx="450" cy="4439" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="4504.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="312" y="4454.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="4472.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Vercel</text>
+<line x1="432" y1="4468.0" x2="445" y2="4504.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="4490.0" width="120" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="372.0" y="4508.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Netlify</text>
+<line x1="432" y1="4504.0" x2="445" y2="4504.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="312" y="4526.0" width="120" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="372.0" y="4544.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">GitHub Pages</text>
+<line x1="432" y1="4540.0" x2="445" y2="4504.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4454.0" width="150" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="543.0" y="4472.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Cloudflare Pages</text>
+<line x1="455" y1="4504.0" x2="468" y2="4468.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4490.0" width="150" height="28" rx="7" fill="#F9C74F" stroke="#D4A017" stroke-width="1.8"/>
+<text x="543.0" y="4508.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Environment Variables</text>
+<line x1="455" y1="4504.0" x2="468" y2="4504.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4526.0" width="165" height="28" rx="7" fill="#F4A261" stroke="#C4742A" stroke-width="1.8"/>
+<text x="550.5" y="4544.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">CI/CD with GitHub Actions</text>
+<line x1="455" y1="4504.0" x2="468" y2="4540.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="4554" x2="450" y2="4578" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="4574" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="4598.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Mobile (Optional)</text>
+<circle cx="450" cy="4625" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="4672.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="302" y="4640.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="367.0" y="4658.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">React Native</text>
+<line x1="432" y1="4654.0" x2="445" y2="4672.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="302" y="4676.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="367.0" y="4694.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Expo</text>
+<line x1="432" y1="4690.0" x2="445" y2="4672.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4640.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="533.0" y="4658.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Expo Router</text>
+<line x1="455" y1="4672.0" x2="468" y2="4654.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4676.0" width="130" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="533.0" y="4694.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">NativeWind</text>
+<line x1="455" y1="4672.0" x2="468" y2="4690.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="4704" x2="450" y2="4728" stroke="#AAAAAA" stroke-width="2" />
+<rect x="320" y="4724" width="260" height="38" rx="20" fill="#2D3A4A" stroke="#2D3A4A" stroke-width="1.8"/>
+<text x="450.0" y="4748.32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Desktop (Optional)</text>
+<circle cx="450" cy="4775" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<circle cx="450" cy="4804.0" r="5" fill="white" stroke="#AAAAAA" stroke-width="2"/>
+<rect x="312" y="4790.0" width="120" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="372.0" y="4808.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Electron</text>
+<line x1="432" y1="4804.0" x2="445" y2="4804.0" stroke="#AAAAAA" stroke-width="1.2" />
+<rect x="468" y="4790.0" width="140" height="28" rx="7" fill="#CED4DA" stroke="#868E96" stroke-width="1.8"/>
+<text x="538.0" y="4808.18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2D3A4A">Tauri (Rust-based)</text>
+<line x1="455" y1="4804.0" x2="468" y2="4804.0" stroke="#AAAAAA" stroke-width="1.2" />
+<line x1="450" y1="4818" x2="450" y2="4848" stroke="#AAAAAA" stroke-width="2" />
+<rect x="310" y="4848" width="280" height="42" rx="21" fill="#2a6a3a" stroke="#1a4a2a" stroke-width="2"/>
+<text x="450" y="4874" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white">🎉 You are a React Developer!</text>
+</svg>
